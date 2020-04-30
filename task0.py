@@ -1,5 +1,4 @@
-#To plot inline
-%matplotlib inline
+
 
 #import essential modules
 import numpy as np
